@@ -1,0 +1,19 @@
+.parte-2{
+    align-items: center;
+    display: flex;
+}
+
+.parte-4{
+    align-items: center;
+}
+
+section{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.div-completa{
+    padding: 80px 120px;
+    display: flex;
+    justify-content: center;
+}
